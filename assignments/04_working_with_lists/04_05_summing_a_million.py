@@ -1,0 +1,5 @@
+numbers = (range(1,1000001))
+small = min(numbers)
+big = max(numbers)
+total = sum(numbers)
+print('smallest:', small ,'\n' 'biggest:', big, '\n' 'sum:',total)
